@@ -1,5 +1,7 @@
 # Scipy-practice
 
+[![HitCount](http://hits.dwyl.com/riteshgcoder/Scipy-practice.svg)](http://hits.dwyl.com/riteshgcoder/Scipy-practice)
+
 𝐒𝐜𝐢𝐏𝐲:-
 
 👾 Scipy is a python library used to solve scientific and mathematical problems
